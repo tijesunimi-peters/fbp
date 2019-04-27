@@ -1,0 +1,13 @@
+Sales,,,,,,,,,,,
+,S/N,Date,Time,Service,Service Start,Service End,Amount,Attendant,arrival,departure,Client
+,1,2014-11-27,00:00:00,Haircut,00:00:00,00:00:00,3883,demo,00:00:00,00:00:00,tj
+
+
+Expenses
+,S/N,Date,Time,Expense,Amount
+,2,2014-11-27,00:00:00,Salaries & Wages,1200
+
+
+Total
+,Total Sales,Total Expenses,Balance
+,3883,1200,2683

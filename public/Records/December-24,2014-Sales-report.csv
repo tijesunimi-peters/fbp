@@ -1,0 +1,11 @@
+Sales,,,,,,,,,,,
+,S/N,Date,Time,Service,Service Start,Service End,Amount,Attendant,arrival,departure,Client
+
+
+Expenses
+,S/N,Date,Time,Expense,Amount
+
+
+Total
+,Total Sales,Total Expenses,Balance
+,0,0,0

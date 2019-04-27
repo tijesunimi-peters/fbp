@@ -1,0 +1,2 @@
+id,staff_id,name,address,phone_no,email,created_at,updated_at,deleted_at,month,year
+2,4321,demo,Ibeshe,08123456789,john@doe.com,2014-11-27 00:00:00,2014-11-27 00:00:00,2014-11-27 00:00:00,11,2014

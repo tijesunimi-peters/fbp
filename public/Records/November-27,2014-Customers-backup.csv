@@ -1,0 +1,2 @@
+id,client_id,client_type,client_name,gender,houseNo,street,location,city,religion,status,wedding_anniversary,DOB,occupation,phone_no,email,flk,created_at,updated_at,month,year
+2,1234,referral,demo,male,138,Demo street,Lagos,Ibeshe,Christianity,single,2014-11-27,2014-11-27,stylist,08123456789,john@doe.com,,2014-11-27 00:00:00,2014-11-27 00:00:00,11,2014

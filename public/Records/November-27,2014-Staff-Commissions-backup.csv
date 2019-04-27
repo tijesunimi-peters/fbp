@@ -1,0 +1,2 @@
+id,staff_id,commission,customer_id,services,amount,date,total,created_at,updated_at,month,year
+2,4321,0,0,Ibeshe,1000,0000-00-00,,2014-11-27 00:00:00,2014-11-27 00:00:00,11,2014

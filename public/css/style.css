@@ -1,0 +1,51 @@
+@font-face {
+	font-family: mainfont;
+	src: url('PT_Sans-Narrow-Web-Regular.ttf');
+}
+
+body {
+	font-family: mainfont;
+	font-size: 16px; line-height: 16px;
+}
+
+#schoolname input {
+	font-family: mainfont;
+}
+
+input, select, textarea {
+	font-family: mainfont;
+}
+
+.ui-helper-hidden-accessible {
+	display: none;
+}
+
+.profileTabs {
+	/*background-color: rgba(0,0,0,0.5); */
+	color: white; 
+	padding:10px; 
+	height: 300px !important;
+	margin-bottom: 5px;
+	border-radius: 5px;
+	box-shadow: ;
+	overflow: hidden;
+
+}
+
+.pagination ul li a {
+	color: rgb(0,0,0);
+	text-decoration: blink;
+}
+
+.hideProfit {
+	display: none;
+}
+
+.showProfit {
+	display: ;
+}
+
+.dontDisplay {
+	display: none;
+}
+

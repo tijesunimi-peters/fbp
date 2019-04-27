@@ -1,0 +1,30 @@
+/*!
+ * jQuery UI Autocomplete @VERSION
+ * http://jqueryui.com
+ *
+ * Copyright 2013 jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ *
+ * http://api.jqueryui.com/autocomplete/#theming
+ */
+.ui-autocomplete {
+	position: absolute;
+	top: 0;
+	left: 0;
+	cursor: default;
+	background-color: white;
+	padding: 5px 30px 5px 30px;
+	color: ;
+	border: 1px solid gray;
+}
+
+.ui-autocomplete li {
+	list-style: none;
+	text-align: center;
+}
+
+.ui-autocomplete li:hover {
+	background-color: rgba(0,0,0,0.6);
+	color: white;
+}

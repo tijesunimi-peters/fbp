@@ -1,0 +1,1 @@
+This is an Update as at {{ strftime('%A %d, %m %Y') }} and below is the attached file

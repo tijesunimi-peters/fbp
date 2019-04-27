@@ -1,0 +1,2 @@
+id,service_type,service_start,service_end,attendant,amount,arrival,departure,rebooked_date,client_id,staff_id,created_at,updated_at,month,year
+2,Haircut,00:00:00,00:00:00,demo,2954,00:00:00,00:00:00,2014-11-27,1234,4321,2014-11-27 00:00:00,2014-11-27 00:00:00,11,2014
